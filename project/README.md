@@ -9,10 +9,10 @@ In addition to programming assignments, students will complete a final project t
 The project is expected to be significantly more work than each of the assignments, as you’ll need to do planning and research as well as implement much of the code framework to process data, run experiments, generate plots, etc. How to manage all of this? Start early! (and, ask lots of questions!)
 
 We’ll set several milestones to check in along the way:
-- [5%] **Project proposal** (and groups), due during Week 6 (February 18 @ 11:59 PM Pacific)
-- [5%] **Milestone** due during Week 11 (March 25 @ 11:59 PM Pacific)
-- [30%] **Final presentations** in class Week 14 (April 16 - 22)
-- [60%] **Project writeup** due last day of classes (April 22 @ 11:59 PM Pacific)
+- [5%] **Project proposal**
+- [5%] **Milestone**
+- [30%] **Final presentations**
+- [60%] **Project writeup**
 
 ## Project Scope and Ideas
 The project is very open-ended, but we do require it to be an NLP project. This means that, at its core, your project should be about processing text, speech, or other form of language. It need not be completely novel in the way that academic research is, but should attempt to do something non-trivial or non-obvious with the data and/or algorithm. For example, you could:
