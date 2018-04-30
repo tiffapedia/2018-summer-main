@@ -37,7 +37,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **James Kunz**: Tuesday immediately after his live session (8pm Pacific).
 * **Nithum Thain**: Thursday at noon Pacific.
 * **Sid Reddy**: TBD
-* **Zach Alexander**: TBD
+* **Zach Alexander**: Friday at 3pm Pacific
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -495,4 +495,3 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 </table>
-
