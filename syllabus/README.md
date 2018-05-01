@@ -24,7 +24,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 **Live Sessions:**
 * Tuesday 4 - 5:30p Pacific (Daniel Cer)
-* Tuesday 4 - 5:30p Pacific (Sid Reddy)
+* Tuesday 4 - 5:30p Pacific (Sid J Reddy)
 * Tuesday 6:30 - 8p Pacific (James Kunz)
 * Wednesday 4 - 5:30p Pacific (Nithum Thain)
 * Thursday 4 - 5:30p Pacific (Zach Alexander)
@@ -36,8 +36,8 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Drew Plant**: TBD
 * **James Kunz**: Tuesday immediately after his live session (8pm Pacific).
 * **Nithum Thain**: Thursday at noon Pacific.
-* **Sid Reddy**: TBD
-* **Zach Alexander**: Friday at 3pm Pacific
+* **Sid J Reddy**: Tuesday immediately after his live session (5:30 pm Pacific).
+* **Zach Alexander**: TBD
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -495,3 +495,4 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 </table>
+
