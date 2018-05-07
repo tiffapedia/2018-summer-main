@@ -33,7 +33,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Teaching Staff Office Hours:**
 
 * **Daniel Cer**: Wednesday at noon Pacific.
-* **Drew Plant**: TBD
+* **Drew Plant**: Friday at noo Pacific.
 * **James Kunz**: Tuesday immediately after his live session (8pm Pacific).
 * **Nithum Thain**: Thursday at noon Pacific.
 * **Sid J Reddy**: Tuesday immediately after his live session (5:30 pm Pacific).
