@@ -33,11 +33,11 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Teaching Staff Office Hours:**
 
 * **Daniel Cer**: Wednesday at noon Pacific.
-* **Drew Plant**: Friday at noo Pacific.
+* **Drew Plant**: Friday at noon Pacific.
 * **James Kunz**: Tuesday immediately after his live session (8pm Pacific).
 * **Nithum Thain**: Thursday at noon Pacific.
 * **Sid J Reddy**: Tuesday immediately after his live session (5:30 pm Pacific).
-* **Zach Alexander**: TBD
+* **Zach Alexander**: Friday at 3pm Pacific
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -61,6 +61,15 @@ There will be a number of smaller [assignments](../assignment/) throughout the t
 exercise what you learned in async and live sessions. Some assignments may be more difficult than others, and may be weighted accordingly.  Given the size of the class, we'll randomly sample a handful of questions to grade.
 
 Participation will be graded holistically, based on live session attendance and participation as well as participation on Piazza. (Don’t stress about this part.)
+
+
+### Letter Grades
+
+We curve the numerical grade to a letter grade.  While we don't release the curve, it usually results in about a quarter of the class each receiving A, A-, B+, and B.  Exceptional cases receive A+, C, or F, as appropriate.
+
+A word of warning:  Given that we (effectively) release solutions to assignments in the form of unit tests, it shouldn't be surprising that most students earn near perfect scores.  Since the variance is so low, assignment scores aren't the primary driver of the final letter grade for most students.  A good assignment score is necessary, but not sufficient, for a strong grade in the class.  A well structured, novel project with good analysis is what makes the difference between a high B/B+ and an A-/A.
+
+As mentioned above:  this course is a lot of work.  Give it the time it deserves and you'll be rewarded intellectually and on your transcript.
 
 
 ### Late Day Policy
@@ -495,4 +504,3 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 </table>
-
