@@ -219,11 +219,11 @@ We'll update the table below with assignments as they become available, as well 
   <li>In-depth critique
   </ul></td>
   <td><ul>
-  <li>Jan 16: <a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
-  <li>Jan 24: <a href="https://arxiv.org/pdf/1704.04368.pdf" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a><br>
+  <li>May 16: <a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
+  <li>May 24: <a href="https://arxiv.org/pdf/1704.04368.pdf" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a><br>
     + <a href="https://docs.google.com/document/d/1YgcO_ruyt4LMe10KCEY4_3UAXZbyOe0kF9TU1U9OSkM/edit?usp=sharing" target="_blank">[Ian's notes]</a>
-  <li>Jan 29: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a>
-  <li>Jan 31: <a href="http://nlp.cs.aueb.gr/pubs/emnlp2017.pdf" target="_blank">Deeper Attention to Abusive User Content Moderation</a>
+  <li>May 29: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a>
+  <li>May 31: <a href="http://nlp.cs.aueb.gr/pubs/emnlp2017.pdf" target="_blank">Deeper Attention to Abusive User Content Moderation</a>
   </ul>
   <a href="https://docs.google.com/presentation/d/1QAydoH4eP8fW9FYEe8trODGQdZfb6us7NYx3PjGu-6A/edit#slide=id.p" target="_blank">[Slides]</a>
   </td>
