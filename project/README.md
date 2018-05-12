@@ -31,9 +31,7 @@ For project ideas, take a look at the final projects from [previous](example-com
 - Analysis of gender roles or power dynamics in movie dialogues
 - Explore techniques for interpreting “black box” / neural models for language
 
-Two groups from the Fall 2016 iteration of this course have also graciously agreed to share their project reports:
-- [Automated Comment Scoring](example-comment-quality.pdf) by Tom Yedwab, Kyle Hamilton, and Cory Kind
-- [Essay Scoring with Grammatical Error Detection](example-grammar.pdf) by Ross Katz, Drew Plant, and Nina Kuklisova
+Additionally, we've put some of the top projects from the last semester in [a shared drive folder](https://drive.google.com/open?id=1bPRt9qWU4K1uqHiaZ3yt5hw13dZtvUq6).
 
 Also see below for NLP conferences - [ACL](http://aclweb.org/anthology/P/P17/) and [EMNLP](http://aclweb.org/anthology/D/D17/) are the top two, and you can find plenty of interesting ideas from the recent proceedings!
 
