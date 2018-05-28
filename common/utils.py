@@ -17,6 +17,7 @@ from . import constants
 def require_package(package_name):
     import pkgutil
     import subprocess
+    import sys
     if not pkgutil.find_loader(package_name):
         subprocess.check_call([sys.executable, '-m', 'pip', 'install', package_name])
 
